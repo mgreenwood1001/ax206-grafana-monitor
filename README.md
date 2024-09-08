@@ -7,6 +7,8 @@ Purchase here: https://www.amazon.com/Screen-Monitor-Computer-Temperature-Displa
 <img src="https://github.com/user-attachments/assets/d726e83b-3e47-4757-a610-43bf2b3ead9e" alt="Description" width="480" height="320">
 
 
+
+
 ## Installation Requirements
 
 ### requirements.txt
@@ -88,3 +90,13 @@ the menu system from grafana so more real-estate is available to the LCD screen.
 
 Contained wtihin is a photoframe, you will manually need to change the script to point at the location you'd like the
 photos to be sent from.  Photos are resized and sent to the ax206 server above.
+
+# Disclaimer
+
+DISCLAIMER
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of 
+merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable
+for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in c
+onnection with the software or the use or other dealings in the software.
+
