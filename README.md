@@ -3,6 +3,8 @@
 This tool intends to be a mechanism for publishing grafana metrics to an AX206 display which has a resolution of 
 480x320.   
 
+Purchase here: https://www.amazon.com/Screen-Monitor-Computer-Temperature-Display/dp/B09TTHZYSH
+
 ## Installation Requirements
 
 ### requirements.txt
