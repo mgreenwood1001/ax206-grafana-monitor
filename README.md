@@ -4,7 +4,6 @@ This tool intends to be a mechanism for publishing grafana metrics to an AX206 d
 480x320.   
 
 Purchase here: https://www.amazon.com/Screen-Monitor-Computer-Temperature-Display/dp/B09TTHZYSH
-![image](https://github.com/user-attachments/assets/d726e83b-3e47-4757-a610-43bf2b3ead9e)
 <img src="https://github.com/user-attachments/assets/d726e83b-3e47-4757-a610-43bf2b3ead9e" alt="Description" width="480" height="320">
 
 
