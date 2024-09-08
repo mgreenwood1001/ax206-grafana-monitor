@@ -91,9 +91,7 @@ the menu system from grafana so more real-estate is available to the LCD screen.
 Contained wtihin is a photoframe, you will manually need to change the script to point at the location you'd like the
 photos to be sent from.  Photos are resized and sent to the ax206 server above.
 
-# Disclaimer
-
-DISCLAIMER
+# DISCLAIMER
 
 The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of 
 merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable
