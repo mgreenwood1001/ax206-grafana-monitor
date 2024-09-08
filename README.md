@@ -1,4 +1,4 @@
-# Monitoring of Grafana Dashboards to AX206
+# AX206 LCD: Grafana Dashboards & Simple Photo Service
 
 This tool intends to be a mechanism for publishing grafana metrics to an AX206 display which has a resolution of 
 480x320.   
@@ -55,7 +55,7 @@ Once running there's a swagger interface to try it out:
 
 http://localhost:5000/ by default if no port is specified, or as configured above http://localhost:8080/
 
-
+The server will allow modification of the image shown on the display and changing the level of brightness between 0 - 7.
 
 ## Grafana Image Puller
 
